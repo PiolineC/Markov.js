@@ -1,0 +1,14 @@
+{
+  "name": "markov",
+  "version": "0.1.0",
+  "description": "Markov chain generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pioline",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
